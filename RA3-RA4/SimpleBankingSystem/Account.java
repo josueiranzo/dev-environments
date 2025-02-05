@@ -36,7 +36,7 @@ public class Account {
 	//mètode per tornar el numero de compte
 	public String getAccount() {
 		return account;
-	}
+	} 
 
 	//mètode per tornar el saldo disponible del compte
 	public double getBalance() {
